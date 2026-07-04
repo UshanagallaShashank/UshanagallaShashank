@@ -4,7 +4,7 @@
 
 **AI Engineer @ RealPage** — building real-time voice agents, retrieval systems, and agentic pipelines at production scale.
 
-[Portfolio](https://ushanagalla-shashank.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ushanagallashashank/) · [GitHub](https://github.com/UshanagallaShashank) · [Email](mailto:ushanagallashashank@gmail.com)
+[Portfolio](https://ushanagallashashank.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ushanagallashashank/) · [GitHub](https://github.com/UshanagallaShashank) · [Email](mailto:ushanagallashashank@gmail.com)
 
 </div>
 
